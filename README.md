@@ -1,6 +1,6 @@
 📘 **Internship Details – Full Stack Web Development**
 **👨‍💻 Candidate Details**
-Name: Krishna Kumar Mahto
+* Name: Krishna Kumar Mahto
 Intern ID: CTIS1650
 Role: Full Stack Web Development Intern
 **🏢 Organization**
